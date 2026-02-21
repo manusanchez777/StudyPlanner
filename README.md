@@ -1,4 +1,4 @@
-# StudyPlanner 
+# StudyPlanner (Grupo 3)
 
 ## “Esta aplicación busca optimizar la organización académica mediante un sistema automatizado de priorización de tareas, utilizando arquitectura cliente-servidor y programación orientada a objetos.”
 
