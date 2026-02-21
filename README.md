@@ -1,4 +1,8 @@
-# StudyPlanner
+# StudyPlanner 
+
+## “Esta aplicación busca optimizar la organización académica mediante un sistema automatizado de priorización de tareas, utilizando arquitectura cliente-servidor y programación orientada a objetos.”
+
+
 Una aplicación web para gestionar tareas académicas con:
 
 - Registro de usuario
@@ -153,15 +157,6 @@ Cards para tareas
 
 Colores suaves (azul académico + amarillo foco 👀)
 
-Nada súper animado. Profesional > exagerado.
-
-📈 Cómo lo puedes vender en la sustentación
-
-Frase clave:
-
-“Esta aplicación busca optimizar la organización académica mediante un sistema automatizado de priorización de tareas, utilizando arquitectura cliente-servidor y programación orientada a objetos.”
-
-
 🗺️ Plan realista contra el tiempo
 
 Día 1 → BD + Backend base
@@ -182,14 +177,3 @@ Notificaciones
 
 IA que sugiera horarios
 
-Pero primero sobrevivimos al semestre 😌
-
-Si quieres, ahora hacemos:
-
-📄 Documento formal del proyecto
-
-🏗️ Estructura de carpetas
-
-🧱 Modelo de base de datos en SQL
-
-O empezamos por el backend base en Java
